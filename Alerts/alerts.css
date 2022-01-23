@@ -1,0 +1,21 @@
+.alert{
+    display: flex;
+    align-items: center;
+    width: 1000px;
+    height: 50px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    background-color: blue;
+}
+.primary-alert{
+    color: black;
+    background-color: #7fd2e6;
+}
+.secondary-alert{
+    color: black;
+    background-color: gray;
+}
+.success-alert{
+    color: black;
+    background-color: green;
+}
