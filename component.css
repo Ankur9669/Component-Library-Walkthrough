@@ -1,1 +1,7 @@
-@import url(./Alerts/alerts.css);
+/* @import url(./Alerts/alerts.css);
+@import url(./Images/images.css); */
+@import "./Alerts/alerts.css";
+
+:root{
+    --primary-color: red;
+}
